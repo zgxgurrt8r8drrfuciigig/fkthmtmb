@@ -57,7 +57,7 @@ def background_worker():
                 pass
 
         print("Sleeping 30 seconds...\n")
-        time.sleep(30)
+        time.sleep(0)
 
 
 # ==========================
